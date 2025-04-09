@@ -1,16 +1,17 @@
-## Hi there 👋
+💻 Software Engineering student passionate about technology and problem-solving.
 
-<!--
-**nicolasmendesdamotta/nicolasmendesdamotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 I have experience in:
 
-Here are some ideas to get you started:
+Back-end & Scripting: JavaScript, PL/SQL, Go (Golang), Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Development: Oracle APEX, HTML, CSS
+
+Infrastructure & IT: Networking, computer maintenance, systems setup
+
+Design & UX: Graphic design and user interface prototyping
+
+Business & Finance: Background in accounting and project planning
+
+🎓 Technical degree in Informatics, where I learned about networks, hardware maintenance, and project management. Currently pursuing a degree in Software Engineering, combining technical knowledge with real-world development.
+
+🚀 I'm always looking to grow, collaborate, and create meaningful tech solutions — whether it's through clean code, smart systems, or beautiful interfaces.
