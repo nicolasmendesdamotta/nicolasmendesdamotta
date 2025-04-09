@@ -2,15 +2,15 @@
 
 🌐 I have experience in:
 
-Back-end & Scripting: JavaScript, PL/SQL, Go (Golang), Python
+• Back-end & Scripting: JavaScript, PL/SQL, Go (Golang), Python
 
-Web Development: Oracle APEX, HTML, CSS
+• Web Development: Oracle APEX, HTML, CSS
 
-Infrastructure & IT: Networking, computer maintenance, systems setup
+• Infrastructure & IT: Networking, computer maintenance, systems setup
 
-Design & UX: Graphic design and user interface prototyping
+• Design & UX: Graphic design and user interface prototyping
 
-Business & Finance: Background in accounting and project planning
+• Business & Finance: Background in accounting and project planning
 
 🎓 Technical degree in Informatics, where I learned about networks, hardware maintenance, and project management. Currently pursuing a degree in Software Engineering, combining technical knowledge with real-world development.
 
